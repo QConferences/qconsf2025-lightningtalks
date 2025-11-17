@@ -23,7 +23,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 18**
 - 11:30 - 11:35 am: **AI Visualization: Seeing Beyond the Black Box** - [Drishti Jain](https://www.linkedin.com/in/jaindrishti/)
-- 3:40 - 3:45 pm: [Your topic] - Your name + LinkedIn Profile Link
+- 3:40 - 3:45 pm: **Training Game AI For Fun and No Profit** - [Andrew Epstein](https://www.linkedin.com/in/andrew-epstein)
 
 **Wednesday, November 19**
 - 11:30 - 11:35 am: **Axioms of Professional Development** - [Jake Goldrich](https://www.linkedin.com/in/jake-goldrich-aba1b85b)
