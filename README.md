@@ -27,4 +27,4 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 **Wednesday, November 19**
 - 11:30 - 11:35 am: **Axioms of Professional Development** - [Jake Goldrich](https://www.linkedin.com/in/jake-goldrich-aba1b85b)
-- 2:30 - 2:35 pm: [Your topic] - Your name + LinkedIn Profile Link
+- 2:30 - 2:35 pm: **Behind the Code: Inculcating habits when designing Software Systems** - [Vishal Garg & Deepak Subramanian](https://www.linkedin.com/in/vishal-garg-a613111  https://www.linkedin.com/in/deepaksubu)
